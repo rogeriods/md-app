@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "f3156d26-8f8c-45c3-9d34-34d9639c4ac2",
+		"name": "MD App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000",
+					"host": [
+						"localhost"
+					],
+					"port": "5000"
+				}
+			},
+			"response": []
+		}
+	]
+}
