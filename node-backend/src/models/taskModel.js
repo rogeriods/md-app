@@ -1,5 +1,6 @@
 import mongoose from 'mongoose';
 
+// Collection 'tasks' for mongo
 const taskSchema = mongoose.Schema(
   {
     taskDescription: { type: String, required: true },
